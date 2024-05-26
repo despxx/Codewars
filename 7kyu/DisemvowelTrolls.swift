@@ -1,5 +1,5 @@
 /*
- 8kyu
+ 7kyu
  Disemvowel Trolls
 
  Trolls are attacking your comment section!
