@@ -4,7 +4,7 @@
 # [![](https://www.codewars.com/users/despxx/badges/large)](https://www.codewars.com/users/despxx)
 
 ### Navigation
-[8 KYU](https://github.com/despxx/Codewars#8kyu) ‎ ›› ‎ [7 KYU](https://github.com/despxx/Codewars#7kyu)
+[8 KYU](https://github.com/despxx/Codewars/tree/main/8kyu) ‎ ›› ‎ [7 KYU](https://github.com/despxx/Codewars/tree/main/7kyu)
 
 ##
 
