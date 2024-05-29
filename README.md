@@ -54,3 +54,7 @@
 ### 7 KYU
 - [Disemvowel Trolls](https://github.com/despxx/Codewars/blob/main/7kyu/DisemvowelTrolls.swift) - [Codewars](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/swift)
 - [Square Every Digit](https://github.com/despxx/Codewars/blob/main/7kyu/SquareEveryDigit.swift) - [Codewars](https://www.codewars.com/kata/546e2562b03326a88e000020/train/swift)
+- [Descending Order](https://github.com/despxx/Codewars/blob/main/7kyu/DescendingOrder.swift) - [Codewars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/swift)
+- [Mumbling](https://github.com/despxx/Codewars/blob/main/7kyu/Mumbling.swift) - [Codewars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/swift)
+- [Jaden Casing Strings](https://github.com/despxx/Codewars/blob/main/7kyu/JadenCasingStrings.swift) - [Codewars](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/swift)
+- [Shortest Word](https://github.com/despxx/Codewars/blob/main/7kyu/ShortestWord.swift) - [Codewars](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/swift)
