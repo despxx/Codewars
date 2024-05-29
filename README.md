@@ -58,3 +58,5 @@
 - [Mumbling](https://github.com/despxx/Codewars/blob/main/7kyu/Mumbling.swift) - [Codewars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/swift)
 - [Jaden Casing Strings](https://github.com/despxx/Codewars/blob/main/7kyu/JadenCasingStrings.swift) - [Codewars](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/swift)
 - [Shortest Word](https://github.com/despxx/Codewars/blob/main/7kyu/ShortestWord.swift) - [Codewars](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/swift)
+- [Credit Card Mask](https://github.com/despxx/Codewars/blob/main/7kyu/CreditCardMask.swift) - [Codewars](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/swift)
+- [Sum of two lowest positive integers](https://github.com/despxx/Codewars/blob/main/7kyu/SumTwoLowestPositiveInt.swift) - [Codewars](https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/swift)
