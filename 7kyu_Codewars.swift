@@ -133,3 +133,25 @@ func sumOfTwoSmallestIntegersIn(_ array: [Int]) -> Int {
         
     return summ! + summ2!
 }
+
+//---------------------------------------------------
+
+/*
+ Sum of odd numbers
+*/
+
+func rowSumOddNumbers(_ row: Int) -> Int {
+    var output = pow(Double(row), 3)
+    
+    return Int(output)
+}
+
+//---------------------------------------------------
+
+/*
+ Don't give me five!
+*/
+
+func dontGiveMeFive(_ start: Int, _ end: Int) -> Int {
+  return (start...end).filter { !String($0).contains("5") }.count
+}
